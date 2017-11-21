@@ -3,7 +3,7 @@
  Laboratoire : 06
  Fichier     : main.cpp
  Auteur(s)   : Maurice Lehmann et Alexandre Marques
- Date        : 20.11.2017
+ Date        : 21.11.2017
 
  But         : Ce programme affiche le nombre de jours séparant deux dates entrée par l'utilisateur.
 
